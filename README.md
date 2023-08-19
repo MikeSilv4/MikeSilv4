@@ -17,5 +17,5 @@ Tecnologias mais usadas por min
     <br>
 </div>
 
-[![Mike's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MikeSilv4&bg_color=212121&color=04ff00&line=f500ed&point=bbff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center"> <img align="center" src="https://profile-counter.glitch.me/MikeSilv4/count.svg" /></p>
