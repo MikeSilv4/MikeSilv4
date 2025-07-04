@@ -1,6 +1,5 @@
 ### Olá meu nome é Mike
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_a_noob_in_the_world_/)
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikeolisilva/)
 
 <div align="center">  
@@ -10,15 +9,11 @@
 Tecnologias mais usadas por min:
 
 <div style="display: inline_block"></>
-    <img align="center" alt="Python"  height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img align="center" alt="C++"  height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-    <img align="center" alt="C"  height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-    <img align="center" alt="Java"  height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <br>
+    <img align="center" alt="Python"  height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><br>
 </div>
 --------------------------------------------------------------
 <div>
-    <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img align="center" alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff"/>
     <br>
     <br>
     <br>
